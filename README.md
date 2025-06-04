@@ -1,5 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there  
 My name is [Giulia Tafuri](https://www.linkedin.com/in/giulia-tafuri/), 🎓 a Computer Science Student at UFRJ!
+Passsionate about data science and currently working as a front-end developer.
 
 ## 🛠️ My tech stack
 <div align="center">
